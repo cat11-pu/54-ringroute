@@ -1,0 +1,12 @@
+{
+  "dup_code": "E_DUP_NODE",
+  "add": {"id": "n2", "weight": 1},
+  "remove": "n1",
+  "nodes": [
+    {"id": "n0", "weight": 1},
+    {"id": "n1", "weight": 1}
+  ],
+  "keys": ["k0", "k1", "k2", "k3"],
+  "migrated": ["k2"],
+  "tokens_per_weight": 2
+}
